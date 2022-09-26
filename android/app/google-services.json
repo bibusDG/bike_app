@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894469207553",
+    "project_id": "bike-events-b1fe3",
+    "storage_bucket": "bike-events-b1fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894469207553:android:0301de767ef1626dfff200",
+        "android_client_info": {
+          "package_name": "com.example.bike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894469207553-p6bcjq7joq3rj2b0grm1tm9v0oa62kt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9lAETLZYlldQmOvI9uDSU4fPs4c_3jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894469207553-p6bcjq7joq3rj2b0grm1tm9v0oa62kt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
